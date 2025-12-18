@@ -31,3 +31,12 @@ This project is an interactive Power BI dashboard analyzing IPL 2022 batting per
 - Compared batsmen performance using runs and strike rate
 - Analyzed scoring pressure using dot ball percentage
 - Enabled interactive analysis using slicers
+
+## 🖼 Dashboard Preview
+
+### Overall Dashboard
+![Dashboard Overview](./screenshots/dashboard_overview.png)
+
+### Filter Interaction Example
+![Filter Interaction](./screenshots/filters_interaction.png)
+
